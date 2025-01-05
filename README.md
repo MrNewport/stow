@@ -2,7 +2,7 @@
 # Laravel Stow Package
 
 ## Overview
-Stow is an unofficial laravel package designed to handle the management of baskets and basket items within a Laravel application. It provides a flexible and extensible solution for handling shopping carts, wishlists, and other similar use cases. This package intentionally avoids pricing and checkout functionality for granularity purposes, focusing solely on the management of items within baskets. If you are looking for a qty based pricelist functionality, keep your eye out for vulgar/price, my upcoming package.
+Stow is an unofficial laravel package designed to handle the management of baskets and basket items within a Laravel application. It provides a flexible and extensible solution for handling shopping carts, wishlists, and other similar use cases. This package intentionally avoids pricing and checkout functionality for granularity purposes, focusing solely on the management of items within baskets. If you are looking for a qty based pricelist functionality, keep your eye out for mrnewport/price, my upcoming package.
 
 
 ## Installation
